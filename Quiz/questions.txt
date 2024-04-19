@@ -1,0 +1,50 @@
+What is the capital of France?|A. Paris|B. London|C. Berlin|D. Madrid|A
+Which planet is known as the Red Planet?|A. Earth|B. Mars|C. Jupiter|D. Saturn|B
+What is the largest mammal?|A. Elephant|B. Blue whale|C. Giraffe|D. Gorilla|B
+How many continents are there?|A. Four|B. Five|C. Six|D. Seven|D
+Which is the longest river in the world?|A. Nile|B. Amazon|C. Yangtze|D. Mississippi|A
+Which is the largest ocean on Earth?|A. Pacific Ocean|B. Atlantic Ocean|C. Indian Ocean|D. Arctic Ocean|A
+Who wrote the play Romeo and Juliet?|A. William Shakespeare|B. Charles Dickens|C. Jane Austen|D. Mark Twain|A
+What is the chemical symbol for gold?|A. Au|B. Ag|C. Fe|D. Cu|A
+Which country is known as the Land of the Rising Sun?|A. China|B. Japan|C. South Korea|D. Vietnam|B
+Who painted the Mona Lisa?|A. Leonardo da Vinci|B. Vincent van Gogh|C. Pablo Picasso|D. Claude Monet|A
+What is the largest organ in the human body?|A. Liver|B. Heart|C. Brain|D. Skin|D
+Which famous scientist developed the theory of relativity?|A. Isaac Newton|B. Albert Einstein|C. Galileo Galilei|D. Nikola Tesla|B
+In which year did World War II end?|A. 1943|B. 1944|C. 1945|D. 1946|C
+Who wrote the novel "Pride and Prejudice"?|A. Jane Austen|B. Charlotte Brontë|C. Emily Dickinson|D. Virginia Woolf|A
+What is the smallest planet in our solar system?|A. Mercury|B. Venus|C. Earth|D. Mars|A
+Who is known as the "Father of Computers"?|A. Charles Babbage|B. Alan Turing|C. Ada Lovelace|D. Bill Gates|A
+Which language is spoken in Brazil?|A. Spanish|B. Portuguese|C. French|D. Italian|B
+Which country is known as the "Land of a Thousand Lakes"?|A. Sweden|B. Finland|C. Norway|D. Canada|B
+What is the hardest natural substance on Earth?|A. Diamond|B. Graphite|C. Quartz|D. Topaz|A
+Who was the first woman to fly solo across the Atlantic Ocean?|A. Amelia Earhart|B. Bessie Coleman|C. Jacqueline Cochran|D. Harriet Quimby|A
+Which is the largest mammal on Earth?|A. Blue whale|B. African elephant|C. Giraffe|D. Hippopotamus|A
+Who wrote the novel "To Kill a Mockingbird"?|A. Harper Lee|B. F. Scott Fitzgerald|C. Ernest Hemingway|D. John Steinbeck|A
+What is the currency of Japan?|A. Yen|B. Yuan|C. Won|D. Rupee|A
+Which element has the chemical symbol "Hg"?|A. Mercury|B. Hydrogen|C. Helium|D. Magnesium|A
+What is the largest bone in the human body?|A. Femur|B. Tibia|C. Fibula|D. Humerus|A
+Who painted the ceiling of the Sistine Chapel?|A. Michelangelo|B. Leonardo da Vinci|C. Raphael|D. Donatello|A
+What is the national flower of Japan?|A. Cherry blossom|B. Rose|C. Lily|D. Lotus|A
+Who discovered penicillin?|A. Alexander Fleming|B. Louis Pasteur|C. Robert Koch|D. Joseph Lister|A
+Which planet is known as the "Morning Star" or "Evening Star"?|A. Venus|B. Mars|C. Jupiter|D. Saturn|A
+What is the largest desert in the world?|A. Sahara Desert|B. Arabian Desert|C. Gobi Desert|D. Kalahari Desert|A
+Which is the largest bird in the world?|A. Ostrich|B. Eagle|C. Albatross|D. Penguin|A
+What is the chemical symbol for silver?|A. Ag|B. Au|C. Fe|D. Cu|A
+Who wrote the play "Hamlet"?|A. William Shakespeare|B. Christopher Marlowe|C. John Milton|D. George Bernard Shaw|A
+What is the capital of Australia?|A. Sydney|B. Melbourne|C. Canberra|D. Brisbane|C
+Which country is known as the "Land of the Midnight Sun"?|A. Norway|B. Iceland|C. Sweden|D. Finland|D
+What is the largest flower in the world?|A. Rafflesia|B. Titan arum|C. Sunflower|D. Rose|B
+Who was the first person to step on the moon?|A. Neil Armstrong|B. Buzz Aldrin|C. Michael Collins|D. Yuri Gagarin|A
+Which is the largest planet in our solar system?|A. Jupiter|B. Saturn|C. Neptune|D. Earth|A
+What is the capital of Italy?|A. Rome|B. Milan|C. Venice|D. Florence|A
+Who wrote the novel "1984"?|A. George Orwell|B. Aldous Huxley|C. Ray Bradbury|D. J.D. Salinger|A
+What is the chemical symbol for iron?|A. Fe|B. Au|C. Ag|D. Cu|A
+Which country is known as the "Land of Fire and Ice"?|A. Iceland|B. Greenland|C. Norway|D. Finland|A
+Who composed the "Moonlight Sonata"?|A. Ludwig van Beethoven|B. Wolfgang Amadeus Mozart|C. Johann Sebastian Bach|D. Franz Schubert|A
+What is the largest species of tiger?|A. Siberian tiger|B. Bengal tiger|C. Sumatran tiger|D. Malayan tiger|A
+What is the chemical symbol for sodium?|A. Na|B. So|C. Sd|D. Sl|A
+Who wrote the novel "The Great Gatsby"?|A. F. Scott Fitzgerald|B. Ernest Hemingway|C. John Steinbeck|D. Harper Lee|A
+Which is the largest mammal in the world?|A. Blue whale|B. African elephant|C. Giraffe|D. Hippopotamus|A
+What is the currency of China?|A. Yuan|B. Yen|C. Won|D. Dollar|A
+Which is the longest river in Asia?|A. Yangtze River|B. Yellow River|C. Ganges River|D. Mekong River|A
+Who painted the "Starry Night"?|A. Vincent van Gogh|B. Claude Monet|C. Pablo Picasso|D. Leonardo da Vinci|A
